@@ -1,2 +1,8 @@
-Content-Type: application/x-apple-aspen-config
-Content-Disposition: attachment; filename="structure-generate.mobileconfig"
+# Headers para el archivo mobileconfig
+/webclip.mobileconfig
+  Content-Type: application/x-apple-aspen-config
+  Content-Disposition: attachment; filename="webclip.mobileconfig"
+
+# Headers para la página de instalación
+/install.html
+  Content-Type: text/html; charset=utf-8
